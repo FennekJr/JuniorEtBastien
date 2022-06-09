@@ -29,3 +29,17 @@ ul {
 li a:hover {
     background-color: rgb(94, 94, 94);
 }
+
+
+header {
+    height: 800px;
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#contact {
+    text-align: center;
+    padding-top: 30px;
+}
