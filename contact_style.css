@@ -1,0 +1,58 @@
+* {
+    list-style: none;
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+}
+
+/*Navbar*/
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li a:hover {
+    background-color: rgb(94, 94, 94);
+}
+
+
+header {
+    height: 800px;
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+#contact {
+    text-align: center;
+    padding-top: 30px;
+}
+
+footer{
+    height: 120px;
+    background-color: #333;
+
+}
+
+#footer {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 40px;
+}
